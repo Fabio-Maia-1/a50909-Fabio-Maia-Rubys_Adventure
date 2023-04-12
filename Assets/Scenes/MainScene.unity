@@ -3901,7 +3901,7 @@ TilemapRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c4bf8cd23a41ad147a65e674b98cf518, type: 2}
+  - {fileID: 2100000, guid: 8da97f76b99d01645aefafaccf32b328, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -20442,3 +20442,60 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3adcfe6e781b7844f8238425ba3dc476, type: 3}
+--- !u!1001 &9049539754272408300
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_RootOrder
+      value: 87
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.2548
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.8052
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521600, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9049539754720521606, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
+      propertyPath: m_Name
+      value: CollectibleHealth
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ce7328eca4bdee049a1063cd6135f359, type: 3}
